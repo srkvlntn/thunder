@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Front-end pro/.idea/Front-end pro.iml" filepath="$PROJECT_DIR$/../../Front-end pro/.idea/Front-end pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../front-end Basic/homework/diplom/.idea/diplom.iml" filepath="$PROJECT_DIR$/../../front-end Basic/homework/diplom/.idea/diplom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/thunder.iml" filepath="$PROJECT_DIR$/.idea/thunder.iml" />
+    </modules>
+  </component>
+</project>
